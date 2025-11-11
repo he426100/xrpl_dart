@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "xrpl_dart",
-      "version": "7.2.0",
+      "version": "7.3.0",
       "dependencies": [
         "blockchain_utils"
       ],
@@ -17,14 +17,14 @@
     },
     {
       "name": "flutter_lints",
-      "version": "5.0.0",
+      "version": "6.0.0",
       "dependencies": [
         "lints"
       ]
     },
     {
       "name": "test",
-      "version": "1.25.9",
+      "version": "1.26.3",
       "dependencies": [
         "analyzer",
         "async",
@@ -56,12 +56,12 @@
     },
     {
       "name": "lints",
-      "version": "5.1.1",
+      "version": "6.0.0",
       "dependencies": []
     },
     {
       "name": "blockchain_utils",
-      "version": "5.2.0",
+      "version": "5.4.0",
       "dependencies": []
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "name": "test_core",
-      "version": "0.6.6",
+      "version": "0.6.12",
       "dependencies": [
         "analyzer",
         "args",
@@ -126,7 +126,7 @@
     },
     {
       "name": "test_api",
-      "version": "0.7.4",
+      "version": "0.7.7",
       "dependencies": [
         "async",
         "boolean_selector",
