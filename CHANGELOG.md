@@ -1,3 +1,7 @@
+## 7.3.0
+
+- Update dependencies.
+
 ## 7.2.0
 
 - Fix parsing RPC error
